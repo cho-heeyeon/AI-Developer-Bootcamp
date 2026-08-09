@@ -1,0 +1,7 @@
+path: Day023
+
+train: images/train
+val: images/val
+
+names:
+  0: measurement_roi
